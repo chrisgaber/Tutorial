@@ -19,9 +19,12 @@ namespace WebApplication1.Controllers
         // 
         // GET: /HelloWorld/Welcome/ 
 
-        public string Welcome(string name, int id = 1)
+        public ActionResult Welcome(string name, int numTimes = 1)
         {
-            return HttpUtility.HtmlEncode("Hello " + name + ", NumTimes is: " + id);
+            ViewBag.Message = "Hello " + name;
+            ViewBag.NumTimes = numTimes;
+
+            return View();
         }
     }
 }
