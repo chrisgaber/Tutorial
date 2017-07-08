@@ -354,3 +354,5 @@ C:\TEMP\Tutorial\WebApplication1\obj\Debug\WebApplication1.dll
 C:\TEMP\Tutorial\WebApplication1\obj\Debug\WebApplication1.pdb
 C:\TEMP\Tutorial\WebApplication1\obj\Debug\WebApplication1.Migrations.Initial.resources
 C:\TEMP\Tutorial\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.Cache
+C:\TEMP\Tutorial\WebApplication1\obj\Debug\WebApplication1.Migrations.Rating.resources
+C:\TEMP\Tutorial\WebApplication1\obj\Debug\WebApplication1.Migrations.DataAnnotations.resources
